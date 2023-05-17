@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  background-image: url(https://img.freepik.com/premium-vector/grey-cement-background-white-paper-texture-background_664601-313.jpg);
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
