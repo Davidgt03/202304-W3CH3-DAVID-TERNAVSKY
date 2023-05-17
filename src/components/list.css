@@ -1,0 +1,16 @@
+.list {
+  display: flex;
+  flex-direction: row;
+}
+li {
+  list-style: none;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  align-content: space-around;
+  flex-wrap: wrap;
+}
+img {
+  border-radius: 100%;
+  margin: 10px;
+}
